@@ -1,0 +1,21 @@
+{
+	"id": "ff296819-78bf-48c4-b47d-88a33e326a19",
+	"name": "GoaltrackerEnv",
+	"values": [
+		{
+			"key": "baseurl",
+			"value": "https://goal-tracker-api.onrender.com/api/v1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "access_token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQmxvb2R5IE1hcnJ5IiwidXNlcklkIjoiNjdlNzVlZGU4NmQ1YjQ5MzNjMTQzYjVkIiwiZW1haWwiOiJibG9kZHlfbWFycnlAZXhhbXBsZS5jb20iLCJpYXQiOjE3NDMyMzg0MTQsImV4cCI6MTc0NTgzMDQxNH0.eb7Tk5sox1q0Num5V7Dl_BJVlqbl-vwQD4nQf2WpJHU",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-03-29T08:56:12.092Z",
+	"_postman_exported_using": "Postman/11.37.0"
+}
